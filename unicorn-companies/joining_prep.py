@@ -10,7 +10,9 @@ df_2022 = df_2022_copy.copy()
 df_2023 = df_2023_copy.copy()
 df_2024 = df_2024_copy.copy()
 
-# change name of the companies so that they become distinct from each other
+# change name of the duplicated companies so that they become distinct from each other
+# and we can use the distinct company names as the key for joining 
+
 ## 2022 dataset update
 # add a company_cleaned column
 df_2022['company_cleaned'] = df_2022['company'].str.upper()
@@ -22,10 +24,12 @@ updates = [
 ]
 
 # Use a loop to save time
+# the conditions in the loc statement: the name of the company and the city must match
 for old_name, city_name, new_name in updates:
     df_2022.loc[
         (df_2022["company_cleaned"] == old_name) & (df_2022["city"] == city_name),
         "company_cleaned"
+    # set the old name to the new name BOLT -> BOLT TALLIN
     ] = new_name
 
 # validate
@@ -61,7 +65,8 @@ df_2022.query('(company=="Bolt")& (city=="San Francisco")')
 df_2024.query('(company_cleaned == "BRANCH") | (company_cleaned == "FIGURE")').sort_values(by='company_cleaned')
 df_2024.columns
 
-# Define all replacements as (company_cleaned, substring_in_company_link, new_value)
+# use these values to identify rows that need to be change (company_cleaned, substring_in_company_link)
+# final component of the tupe (BRANCH REDWOOD CITY) is the new name that needs to use for assigning 
 updates_2024 = [
     ("BRANCH", "branch-metrics", "BRANCH REDWOOD CITY"),
     ("BRANCH", "branch-financial", "BRANCH COLUMBUS"),
@@ -87,5 +92,6 @@ df_2022.columns
 df_2022.to_csv('./cleaned_data/cleaned_unicorn_companies_2022.csv',index=False)
 df_2023.to_csv('./cleaned_data/cleaned_unicorn_companies_2023.csv', index=False)
 df_2024.to_csv('./cleaned_data/cleaned_unicorn_companies_2024.csv', index=False)
+
 
 df_2022['select_investors']
