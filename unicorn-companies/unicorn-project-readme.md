@@ -2,11 +2,15 @@
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png)
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
 ## Tech Stack
- Python pandas and numpy (data cleaning), SQL (database design, merge tables and quick data query), Tableau (Visualization)
+- Python pandas and numpy (data cleaning)
+- SQL (database design, merge tables and quick data query)
+- [ Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 1. Data Source Introduction
 
 ### 1a. Data Source Link
-
+- [2024 unicorn data](https://www.kaggle.com/datasets/sashakorovkina/2024-unicorn-and-emerging-unicorn-companies?resource=download&select=unicorn_companies.csv)
+- [2023 unicorn data](https://www.kaggle.com/datasets/ritwikb3/unicorn-companies)
+- [2022 unicorn data](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies)
  - 3 CSV files that collect information about private companies with a value of over $1 billion as of March 2022, 2023 and 2024.
 ### 1b. Variable Description
  - Dataset 1:
