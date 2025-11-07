@@ -7,11 +7,7 @@
 ## Dashboard Peek
 :link: [Go to Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png)
-@[image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
 
-
-
-![Logo](<!-- Add your logo image link here -->)
 
 ## Client Background
 
@@ -28,68 +24,19 @@ The analysis focuses on key performance indicators, data insights, and strategic
 - [Metric 3] – e.g., Customer engagement or loyalty program evaluation.
 - [Metric 4] – e.g., Regional sales comparison and market penetration.
 
-## Executive Summary
-
-1. **[Key Trend or Highlight 1]**
-   - Briefly summarize the most significant finding or event.
-   - Include the general outcome or trend (e.g., steady growth, seasonal dip).
-
-2. **[Key Trend or Highlight 2]**
-   - Describe the cause or possible contributing factors.
-   - Mention implications or impact areas (e.g., market shift, demand change).
-
-3. **[Additional Insight or Observation]**
-   - Highlight any repeating pattern or cyclical trend.
-   - Briefly touch on data anomalies or outliers worth further exploration.
-
-4. **[Key Takeaways & Recommendations]**
-   - List actionable recommendations based on the analysis.
-   - Summarize potential strategies or next steps.
-
-
-## Insights Deep-Dive
-
-### Sales Trend
-
-![Sales Trend](<!-- Add sales trend chart -->) ![AOV Chart](<!-- Add AOV chart -->) ![Order Count](<!-- Add order count chart -->)
-
-Briefly describe sales trends — e.g., periods of peak sales, downturns, or anomalies.
-
----
-
-### Product Performance
-
-![Product Performance](<!-- Add product performance chart -->)
-
-Summarize product category performance and identify top or underperforming items.
-
----
-
-### Loyalty Program Insights
-[Loyalty Metric 1](<!-- Add chart -->)
-
-[Loyalty Metric 2](<!-- Add chart -->)
-
-Explain loyalty member performance differences and customer engagement patterns.
-
----
-
-### Refund Rates
-![Refund Analysis](<!-- Add refund chart -->)
-
-- Summarize key findings on refund frequency and product reliability.
-- Note which product types or categories have higher return rates.
-- Provide 1–2 possible improvement suggestions.
-
----
-
-### Regional Analysis
-
-![Regional Analysis](<!-- Add regional chart -->)
-
-Describe key performance differences between regions and potential growth opportunities.
-
----
+## Insights from Visualization
+![image alt]
+- Insight 1:
+- Insight 2: 
+![image alt]
+- Insight 1:
+- Insight 2:
+![image alt]
+- Insight 1:
+- Insight 2:
+![image alt]
+- Insight 1:
+- Insight 2:
 
 ## Recommendations
 
