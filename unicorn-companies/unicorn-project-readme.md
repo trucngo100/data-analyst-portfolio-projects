@@ -25,16 +25,19 @@ The analysis focuses on key performance indicators, data insights, and strategic
 - [Metric 4] – e.g., Regional sales comparison and market penetration.
 
 ## Insights from Visualization
-![image alt]
+| ![img1](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) | ![img2](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) |
+|----------------------|----------------------|
+| ![img3](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) | ![img4](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) |
+#### view 1
 - Insight 1:
 - Insight 2: 
-![image alt]
+#### view 2
 - Insight 1:
 - Insight 2:
-![image alt]
+#### view 3
 - Insight 1:
 - Insight 2:
-![image alt]
+#### view 4
 - Insight 1:
 - Insight 2:
 
