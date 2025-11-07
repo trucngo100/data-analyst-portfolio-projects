@@ -111,6 +111,8 @@ Based on the insights, here are the proposed strategic investment opportunities:
 3 CSV files that collect information about private companies with a value of over $1 billion as of March 2022, 2023, and 2024.
 
 ### 1b. Variable Description
+I used Excel to organize the data schema and brainstorm how can I utilize this dataset.
+[Go to Excel](https://docs.google.com/spreadsheets/d/1EC9eJmgNzuyrkrtsYNhkAlcCXkZZVeCBpEFL-eOE2og/edit?usp=sharing)
 - Dataset 1:
 
 
