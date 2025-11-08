@@ -5,10 +5,10 @@
 
 # :bulb: BUSINESS INSIGHTS
 ## Dashboard Peek
-:link: [Go to Tableau Dashboard]([https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/OnlineShoppingUserBehaviorAnalysis/DISCREPANCYDB2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+:link: [Go to Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/OnlineShoppingUserBehaviorAnalysis/DISCREPANCYDB)
 
 
-| ![image alt]([https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png](https://github.com/aliciango/data-analyst-portfolio-projects/blob/3d5d12a89bd12aab40dabf1266492f1deed6b41d/assets/onnl_shopper_overview.png))|
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/3d5d12a89bd12aab40dabf1266492f1deed6b41d/assets/onnl_shopper_overview.png)|
 |------------------------|
 
 ## Northstar Metrics
