@@ -6,6 +6,8 @@
 Tech stack: Python, SQL, Tableau
 - ##### [About Me](#about-me)
 - ##### [Projects](#projects)
+1. [Deal Sourcing and Portfolio Management](#deal-sourcing-and-portfolio-management)
+2. [Using Online Behavior Data for Targetted Marketing and Website Development](#using-online-behavior-data-for-targetted-marketing-and-website-development)
 
 ## About Me
 Certifications and Courses
