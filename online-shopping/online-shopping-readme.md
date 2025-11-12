@@ -11,7 +11,8 @@
 | ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/3d5d12a89bd12aab40dabf1266492f1deed6b41d/assets/onnl_shopper_overview.png)|
 |------------------------|
 
-
+## Northstar Metrics: Page Value
+At the end of the day, the goal of this dashboard is finding ways to increase the page value. Page value is calculated by dividing the dollar amount of customer purchases by the number of pages that they visit during a session. 
 
 ## Insights from Visualization
 #### *VIEW 1* - Overview of User Activities during the last 12 months
@@ -25,7 +26,7 @@ The dashboard starts with a snapshot of the ecommerce website current performanc
 | ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onnl_shopper_behavior_discrepancy.png)  |
 |------------------------|
 ##### VIEW 2 INSIGHTS
-It then compares two key visitor groups, converters and non-converters, and highlights how their behavior differs. This includes the average page value ($) of each visitor segment and raises questions about what caused the difference. Sales and Marketing team could brainstorm on how to use A/B testing and tweak their marketing activities to narrow the gap in page value between converters and non-converters.
+It then compares two key visitor groups, converters and non-converters, and highlights how their behavior differs. This includes the **average page value ($)** of each visitor segment and raises questions about what caused the difference. Sales and Marketing team could brainstorm on how to use A/B testing and tweak their marketing activities to narrow the gap in page value between converters and non-converters.
 - The behavior is consistent across all months, with converters generating twice to fourth times as high page value as non-converters.
 - Surprisingly, there is not much difference between weekends and weekdays.
 - People made more purchases, making the average page value go up as it gets closer to the special days. This means that people are willing to pay more for special occasions. Sales Manager can encourage purchases 7 days before the special days by dropping discounts and bargains. The closer it gets to special days, removing those discounts and selling products at whole price.
@@ -36,11 +37,17 @@ It then compares two key visitor groups, converters and non-converters, and high
 | ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png) |
 |------------------------|
 ##### VIEW 3 INSIGHTS
- Finally, I used Tableau (**Dashboard 3: Behavior Discrepancy Deep Dive**) to find explanations for the difference.
-1. Hypothesis 1: The converters generated a higher page value because they browsed more pages
+Finally, I came up with the hypotheses that can explain the discrepancy in page value shown in dashboard two:
+1. Hypothesis 1: The converters generated a higher page value because they browsed more pages. 
 2. Hypothesis 2: The converters generated a higher page value because they spent more time browsing.
 
+While the charts shown that the number of pages browsed and time spent browsing could likely influence the page value, we should confirm this by conducting hypothesis testing
+- Further statistical testing could be conducted to test whether there is a statistical significant difference between converters and non-converters' page value.
+- Logistic regression model that predicts whether a user is a converter or not given the number of pages they browsed, time spent browsing.
+- Chi-square test of independence between visitor segment (levels: converters and non-converters) and page types (levels: info, admin, product)
 
+Recommendations:
+- If browsing more pages and spending more time on the website does directly influence the page value, we should invent activities (like daily checkin games) that keep users engaged and interact with our websites longer. On the contrary if browsing more pages and spending more time may somehow annoy the customers and decrease the page value, we should take a look at how information is presented on the product, information, and administrative page. Are they compact, easy to read and easy to navigate? 
 
 # :toolbox: DATA PROCESSING
 ## Tech Stack
@@ -59,5 +66,8 @@ It then compares two key visitor groups, converters and non-converters, and high
 	 - [eda.py](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/eda.py)
 
 ## Technical Challenges
-- Lack of session ID: generates unique session ID by using hashlib
+- Lack of session ID: generates unique session ID by using hashlib.
 - Improper format to work with Tableau: the page count and page duration for each page type is measured and recorded in columns. In order to make dashboard in Tableau, the columns must be combined to form one categorical variable and two contious variables.
+- Lack of time to conduct further statistical testing.
+- Log transformationg for time spent browsing and page value. The distribution for these two variables are right-skewed, with most of the data equals 0. I used boxplot to visualize the distribution and handling them before putting everything together in the final dashboard.
+- 
