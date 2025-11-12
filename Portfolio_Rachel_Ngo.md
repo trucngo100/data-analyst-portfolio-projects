@@ -10,7 +10,7 @@
 
 ## About Me
 - A person with experience communicating technical jargons to non-technical business stakeholders. Having an unhealthy obsession with learning, been taught on the success recipes of large Korean conglomerates like Coupang, HYBE and proud of my large vault of marketing and operations knowledge regarding various industries (airline, hotel industry, buyback service, ecommerce, fintech). 
-- When there is no tech person available, I am also the person who is willing to get my hands dirty and determined to save time for the whole team by learning automation tools and organizing things on collaboration workspace! Also, for the remaining time that I do not study something, you would find me go travel backpacking, cook Vietnamese food and exercise.
+- When there is no tech person available, I am also the person who is willing to get my hands dirty and determined to save time for the whole team by learning automation tools and organizing things on collaboration workspace! Also, for the remaining time that I do not study something, you would find me go travel backpacking, cook Vietnamese food 🇻🇳 and exercise.
 
 ##### Coursework
 - *Yonsei School of Computer Science*: Intro to Deep Learning, Data Science, AI, Introduction to AI Research, NLP Processing and ChatGPT.
