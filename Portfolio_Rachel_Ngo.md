@@ -2,7 +2,7 @@
 # [Truc Ngo](https://www.linkedin.com/in/trucngo147/)
 ##### Based in HCMC / Seoul
 ##### BBA at Yonsei, Minor in Artificial Intelligence
-
+##### [Linkedin](ttps://www.linkedin.com/in/trucngo147/)
 - ##### [About Me](#about-me)
 - ##### [Projects](#projects)
 1. [Deal Sourcing and Portfolio Management](#deal-sourcing-and-portfolio-management)
@@ -13,8 +13,8 @@
 - When there is no tech person available, I am also the person who is willing to get my hands dirty and determined to save time for the whole team by learning automation tools and organizing things on collaboration workspace! Also, for the remaining time that I do not study something, you would find me go travel backpacking, cook Vietnamese food and exercise.
 
 ##### Coursework
-- *Yonsei School of Computer Science*: Deep Learning, Data Science, AI, Introduction to AI Research
-- *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming,
+- *Yonsei School of Computer Science*: Intro to Deep Learning, Data Science, AI, Introduction to AI Research, NLP Processing and ChatGPT.
+- *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming.
 
 ##### Certifications
 |   |   |
