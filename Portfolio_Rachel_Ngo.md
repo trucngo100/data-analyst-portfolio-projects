@@ -1,10 +1,7 @@
 # Data Analyst Portfolio
-# Truc Ngo
+# [Truc Ngo](https://www.linkedin.com/in/trucngo147/)
 ##### Based in HCMC / Seoul
 ##### BBA at Yonsei, Minor in Artificial Intelligence
-
-Tech stack: Python, SQL, Tableau
-Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5).
 
 - ##### [About Me](#about-me)
 - ##### [Projects](#projects)
@@ -12,16 +9,25 @@ Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (P
 2. [Using Online Behavior Data for Targetted Marketing and Website Development](#using-online-behavior-data-for-targetted-marketing-and-website-development)
 
 ## About Me
-Coursework: 
-- Yonsei School of Computer Science: Deep Learning, Data Science, AI, Applied Statistics, Business Programming, Data Communication Science
-- Yonsei Business School of Management: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics
-Certifications and Courses
-- [Datacamp Data Engineer Associate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Datacamp_Data_Engineer_Associate.pdf)
-- [Google Business Intelligence Specialization](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Google_Business_Intelligence_Specialization.pdf)
-- [Database Design and Operational Business Intelligence](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Database_Design_and_Operational_BI.pdf)
-- [Hackerrank SQL Intermediate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Hackerrank_SQL_Intermediate.pdf)
-- [Deloitte Australia - Data Analytics Job Simulation]()
-- [UCI Initiating and Planning Projects]()
+- A person with experience communicating technical jargons to non-technical business stakeholders. Having an unhealthy obsession with learning, been taught on the success recipes of large Korean conglomerates like Coupang, HYBE and proud of my large vault of marketing and operations knowledge regarding various industries (airline, hotel industry, buyback service, ecommerce, fintech). 
+- When there is no tech person available, I am also the person who is willing to get my hands dirty and determined to save time for the whole team by learning automation tools and organizing things on collaboration workspace! Also, for the remaining time that I do not study something, you would find me go travel backpacking, cook Vietnamese food and exercise.
+
+##### Coursework
+- *Yonsei School of Computer Science*: Deep Learning, Data Science, AI, Introduction to AI Research
+- *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming,
+
+##### Certifications
+|   |   |
+|---|---|
+| [Datacamp Data Engineer Associate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Datacamp_Data_Engineer_Associate.pdf) | [Google Business Intelligence Specialization](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Google_Business_Intelligence_Specialization.pdf) |
+| [Database Design and Operational Business Intelligence](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Database_Design_and_Operational_BI.pdf) | [Hackerrank SQL Intermediate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Hackerrank_SQL_Intermediate.pdf) |
+| [Deloitte Australia - Data Analytics Job Simulation](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Data_Analytics_Job_Simulation.pdf) | [UCI Initiating and Planning Projects](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Initiating_and_Planning_Projects.pdf) |
+
+
+##### Technical Experience
+Tech stack: Python, SQL, Tableau
+##### Languages
+Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5).
   
 ## Projects
 ### Project Deal Sourcing and Portfolio Management: [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/blob/0d20d941ab6df0a1aaff7d4993310b47174e8d5f/unicorn-companies/unicorn-project-readme.md)
