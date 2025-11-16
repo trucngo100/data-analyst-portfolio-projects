@@ -37,15 +37,15 @@
 | Sales & Conversion Metrics | SDR Performance, SR Performance, Average Conversion Days by Business Type, Average Conversion Days by Business Segment |
 | Geographical Distribution | Customer Location, Seller Location, # of Sellers by Channel |
 
-## About Me
+# About Me
 - A hard-working person with experience working in an international environment and driving business growth through **data**. Having an unhealthy obsession with learning. Built projects that can solve marketing and operational problems. Exposed to metrics collected in various industries (airline, hotel industry, buyback service, ecommerce, fintech, automobiles).
 - Looking for opportunities to grow and make impact with my data analytical and communication skills.
   
-##### Coursework
+### Coursework
 - *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming.
 - *Yonsei School of Computer Science*: Intro to Deep Learning, Data Science, AI, Introduction to AI Research, NLP Processing and ChatGPT.
 
-##### Certifications
+### Certifications
 | Certificate List 1 | Certificate List 2 |
 |--------------------|--------------------|
 | [Google Business Intelligence Specialization](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Google_Business_Intelligence_Specialization.pdf) | [Macquarie Intermediate Excel Skills](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/macquarie_excel_intermediate.pdf) |
@@ -54,9 +54,9 @@
 | [Essential Linear Algebra for Data Science](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/coursera_essential_linear_algebra_for_data_science.pdf) | [Duke Business Metrics for Data Driven Companies](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/duke_business_metrics_for_data_driven_companies.pdf) |
 | [Deloitte Australia - Data Analytics Job Simulation](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Data_Analytics_Job_Simulation.pdf) | [UCI Initiating and Planning Projects](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Initiating_and_Planning_Projects.pdf) |
 
-##### Technical Experience
+### Technical Experience
 - Tech stack: Python, SQL, Tableau
-##### Languages
+### Languages
 - Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5), Chinese (In Progress) (My ethnicity is Chinese actually!)
   
 ## Projects
