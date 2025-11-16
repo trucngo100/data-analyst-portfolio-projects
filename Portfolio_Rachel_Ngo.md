@@ -5,7 +5,7 @@
 - ##### [Go to Linkedin Profile](https://www.linkedin.com/in/trucngo147/)
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
-#### *1. [Deal Sourcing and Portfolio Management](#deal-sourcing-and-portfolio-management)*
+#### *1. [Deal Sourcing and Portfolio Management](#project-deal-sourcing-and-portfolio-management)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -15,7 +15,7 @@
 | Trend Analysis | % Change from 2022 to 2023, % Change from 2023 to 2024 |
 | Historical & Allocation Data | Year of Founded, Funding Allocations to Different Continents, Funding Allocations to Different Industries, Allocation Change (Emerging/Established Markets) |
 
-#### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#using-online-behavior-data-for-targetted-marketing-and-website-development)*
+#### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -60,14 +60,15 @@
 - Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5), Chinese (In Progress) (My ethnicity is Chinese actually!)
   
 ## Projects
-### Project Deal Sourcing and Portfolio Management
+### (A). Project Deal Sourcing and Portfolio Management
 #### [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/blob/0d20d941ab6df0a1aaff7d4993310b47174e8d5f/unicorn-companies/unicorn-project-readme.md)
-![img alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png)
+<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="400">
 
-### Project Using Online Behavior Data for Targetted Marketing and Website Development
+
+### (B). Project Using Online Behavior Data for Targetted Marketing and Website Development
 #### [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/tree/main/online-shopping)
-![img alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png)
+<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="400">
 
-### Project Using Ecommerce Data Collected from 5 Business Source Systems
+### (C). Project Using Ecommerce Data Collected from 5 Business Source Systems
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/brazillian-ecommerce-readme.md)
-![img alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png)
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png" alt="img alt" width="600" height="400">
