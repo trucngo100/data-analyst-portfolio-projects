@@ -17,7 +17,7 @@ At the end of the day, the goal of this dashboard is finding ways to increase th
 
 ## Insights from Visualization
 #### *VIEW 1* - Overview of User Activities during the last 12 months
-| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onnl_shopper_overview.png)  |
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_overview.png)  |
 |------------------------|
 ##### VIEW 1 INSIGHTS
 The dashboard starts with a snapshot of the ecommerce website current performance, measuring  how frequently it was visited. 
