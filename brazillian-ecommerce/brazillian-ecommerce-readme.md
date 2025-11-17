@@ -90,5 +90,9 @@ To understand why buyers do not have interest to stay and make frequent purchase
    - [interact_ecommerce](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/sql/interact_ecommerce.sql)
 
 ## Technical Challenges
-- data came from different sources,
+- Data was collected from more than 5 sources and merging the tables was a real challenge for me. I have to make sure the column names were consistent across the tables.
+- Regarding the missing values, they are not missing by system log errors but occur because the process has not happened yet. Interpreting that the columns are parts of a process allowed me to go ahead leaving these null values or replacing it with 0 to enable date calculation like shipping time, order preparation days.
+- As this is a large datasets with more than 20 dimensions, deciding what to use for the analysis was difficult. I abandoned some attributes related to the product such as product height or product size. At the same time, it provided lots of rooms for engineering new features like classifying an order or classifying a customer as repeat or return customers.
+- The key to join table 'customers' and table 'orders' is customer_id but it should not be used for analysis because it is just a joining key. The true customer identifier column is customer_unique_id and after finish joining the table, I dropped the 'customer_id' column and changed 'customer_unique_id' column to 'customer_id' to avoid any confusion.
+- I am not yet able to deal with handling text data and natural language processing related task so I also dropped columns review_comment_title and review_comment_message which could provide lots of insights regarding customer experience. 
 
