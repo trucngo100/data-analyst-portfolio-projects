@@ -9,33 +9,33 @@
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
-| Core Metrics | Number of Holdings, Total Portfolio Valuation, Company Valuation, Funding Allocated |
-| Benchmark Comparisons | Continent Average Valuation, Industry Average Valuation, Value @ Unicorn Record Time |
-| Performance Indicators | Performance of Top 10 Out-Portfolio Companies, Years to Unicorn, Industry Year-over-Year (YoY) Growth |
-| Trend Analysis | % Change from 2022 to 2023, % Change from 2023 to 2024 |
-| Historical & Allocation Data | Year of Founded, Funding Allocations to Different Continents, Funding Allocations to Different Industries, Allocation Change (Emerging/Established Markets) |
+| Core Metrics | Number of Holdings, Total Portfolio Valuation, Company Valuation, Funding Allocated, Company Valuation @ Unicorn Record Time |
+| Benchmark Comparisons | Continent Average Valuation, Industry Average Valuation, Emerging and Established Markets |
+| Performance | Performance of Top 10 Out-Portfolio Companies, Years to Unicorn, Industry Year-over-Year (YoY) Growth |
+| Trend Analysis | % Valuation Change from 2022 to 2023, % Valuation Change from 2023 to 2024 |
+
 
 #### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
-| Traffic & Engagement Metrics | # of Sessions, Average Session Duration, # Pages Visited per Session, Bounce Rate, Exit Rate |
-| User & Audience Segmentation | 1st Visitors, Visitor Segments (% New, % Returning), Converter Segments (% Converter, % Non-converter), User Quadrants (Engagement, Value) |
-| Technical & Source Analysis | 1st Traffic Type, 1st Browser Type, Top 3 Traffics by Session Count, Top 3 Browsing Channels by Session Count |
-| Behavioral & Temporal Patterns | Time Browsing (Duration), Seasonality Trend (Payment/Value), Weekends and Weekdays Behavior Difference (Payment/Value), Proximity to Special Days (Payment/Value) |
-| Conversion & Performance Analysis | Count per Page Type, Payment Difference by Browser Type, Payment Difference by Traffic Type |
+| Traffic & Engagement Metrics | Total Sessions, Average Session Duration, Number of Pages Visited per Session, Bounce Rate, Exit Rate |
+| User Segmentation | Visitor Segments (% New, % Returning), Converter Segments (% Converter, % Non-converter), User Quadrants (Engagement, Value) |
+| Technical & Source Analysis | Most Common Traffic Type, Most Common Browser Type, Top 3 Traffics by Session Count, Top 3 Browsing Channels by Session Count |
+| Behavioral & Temporal Patterns | Time Browsing (Duration), Seasonality Trend (Payment/Value), Weekends and Weekdays Behavior Difference (Payment/Value), Correlation between Spending and Proximity to Special Days |
+
 
 #### *3. [Marketplace Ecommerce Analysis: Finding Answers for Low Customer Retention and Suggestions for CRM Activities with Sellers](#c-project-using-ecommerce-data-collected-from-5-business-source-systems)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
-| Business Scale & Growth | Total Customers, Total Sellers, Average # of Items Bought per Order, Average Listings, Distribution of Total Orders Across Network |
-| Financial Performance | Average Order Value (AOV), AOV by Buyer Type, Mode of Customer Payment, Product Segmentation (Price/Volume) |
 | Retention & Loyalty | Customer Retention Rate, Seller Retention Rate, Customer Retention Cohort Rate, Seller Cohort Retention |
+| Business Scale & Growth | Total Customers, Total Sellers, Average # of Items Bought per Order, Average Listings |
+| Financial Performance | Average Order Value (AOV), AOV by Buyer Type, Mode of Customer Payment, Product Segmentation (Price/Volume) |
 | Operational Efficiency | Average Payment Processing Days, Average Order Preparation Days, Average Customer Shipping Days, KPI Target Setting (Delivery), KPI Reached Percentage (Delivery) |
 | Quality & Satisfaction | Review Score, Average Review Given per Order, Seller Behavior Classification |
 | Sales & Conversion Metrics | SDR Performance, SR Performance, Average Conversion Days by Business Type, Average Conversion Days by Business Segment |
-| Geographical Distribution | Customer Location, Seller Location, # of Sellers by Channel |
+| Geographical Distribution | Customer Location, Seller Location, # of Sellers by Channel, Distribution of Total Orders Across Network |
 
 # About Me
 - A hard-working person with experience working in an international environment and driving business growth through **data**. Having an unhealthy obsession with learning. Built projects that can solve marketing and operational problems. Exposed to metrics collected in various industries (airline, hotel industry, buyback service, ecommerce, fintech, automobiles).
