@@ -5,8 +5,8 @@
 - ##### [Go to Linkedin Profile](https://www.linkedin.com/in/trucngo147/)
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
-#### *1. [Deal Sourcing and Portfolio Management](#a-project-deal-sourcing-and-portfolio-management)*
-
+- ##### [Go to Personal Learning Notes](#personal-learning-notes)
+#### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
 | Core Metrics | Number of Holdings, Total Portfolio Valuation, Company Valuation, Funding Allocated, Company Valuation @ Unicorn Record Time |
@@ -25,8 +25,7 @@
 | Behavioral & Temporal Patterns | Time Browsing (Duration), Seasonality Trend (Payment/Value), Weekends and Weekdays Behavior Difference (Payment/Value), Correlation between Spending and Proximity to Special Days |
 
 
-#### *3. [Marketplace Ecommerce Analysis: Finding Answers for Low Customer Retention and Suggestions for CRM Activities with Sellers](#c-project-using-ecommerce-data-collected-from-5-business-source-systems)*
-
+#### *3. [Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
 | Retention & Loyalty | Customer Retention Rate, Seller Retention Rate, Customer Retention Cohort Rate, Seller Cohort Retention |
@@ -57,10 +56,10 @@
 ### Technical Experience
 - Tech stack: Python, SQL, Tableau
 ### Languages
-- Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5), Chinese (In Progress) (My ethnicity is Chinese actually!)
+- Languages: Vietnamese (Native); English (Fluent); Korean (Passive Fluent, TOPIK 5), Chinese (In Progress) (My ethnicity is Chinese actually!)
   
 ## Projects
-### (A). Project Deal Sourcing and Portfolio Management
+### (A). Project Using Financial Data for Portfolio Management and Deal Sourcing
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/edit/main/unicorn-companies/unicorn-project-readme.md)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="400">
 
@@ -69,6 +68,13 @@
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/online-shopping-readme.md)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="400">
 
-### (C). Project Using Ecommerce Data Collected from 5 Business Source Systems
+### (C). Project Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/brazillian-ecommerce-readme.md)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png" alt="img alt" width="600" height="400">
+
+
+## Personal Learning Notes
+- I really love learning and I am a huge fan of Notion, Capacities, Miro, draw.io. Over the course of 4 years in Korea, I have levelled up my notetaking system and soft-skill building a lot to accomodate with all the constantly changing tech space.
+- During the process of self-learning, I made lots of mistakes and gained experience through watching Youtube videos and reading blogs on Medium or Reddit. For example, when I learned Tableau, I remember watching this Youtube video where the instructor told me that in order to change the variables without losing the formatting, I have to first drag them into the markcards and then remove the original labels. I remember little tips like this so that I can upgrade my skills and deliver the result faster.
+- Throughout the process, I have a made a personal Data Workflow that I would love to share.
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/data-workflow.jpg" alt="img alt" width="600" height="800">
