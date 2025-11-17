@@ -4,6 +4,7 @@
 
 
 # :bulb: BUSINESS INSIGHTS
+[Scroll down for business recommendations](#bulb-recommendations)
 ## Dashboard Peek
 :link: [Go to Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_brazillian_ecommerce/CUSTOMERRETENTION)
 
@@ -48,7 +49,6 @@ To understand why buyers do not have interest to stay and make frequent purchase
 - My recommendations is that Olist should reduce the 9.2 days average shipping time and the 2.8 days average order preparation time to improve the customer review score. 
 
 
-
 #### *VIEW 5* - Inspecting Seller Retention
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_5_seller_retention.png)  |
 |------------------------|
@@ -70,6 +70,10 @@ To understand why buyers do not have interest to stay and make frequent purchase
 - Geographic Distribution: Both customers and sellers are heavily concentrated in the Southeast region of Brazil, particularly the states of São Paulo (SP), Minas Gerais (MG), and Rio de Janeiro (RJ).
 - Warehouse Recommendation: The heatmap confirms this concentration, showing the highest order density (darker squares) in the SP, RJ, and MG regions.
 - Recommendation: To reduce the 9.2-day average shipping time, the next regional warehouse should be located in the Southeast Region (e.g., São Paulo or Rio de Janeiro) to serve the high demand of buyers and allow the sellers to load their products to our warehouses faster.
+
+## :bulb: Recommendations
+- Improving CX: reducing the number of waiting days to have their products delivered. Building a new warehouse or relocating a current warehouse location to the central areas.
+- Due to the low number customers and the AOV is small, sellers are leaving the platform to pursue their businesses somewhere else. My recommendation is that we should give them some insights that we have collected about their customers and provide strategic recommendations for them, including cross-selling and offering bargains.
 
 
 # :toolbox: DATA PROCESSING
