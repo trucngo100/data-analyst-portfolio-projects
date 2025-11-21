@@ -6,6 +6,8 @@
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
+#### *0. [(P&G HR Self-taught Case Study) Using IBM HR Data to Analyze Attrition)(#d-hr-project)*
+
 #### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -71,6 +73,11 @@
 ### (C). Project Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/brazillian-ecommerce-readme.md)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png" alt="img alt" width="600" height="400">
+
+### (D). HR project
+#### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/ibm_human_resources/hr-readme.md)
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="400">
+
 
 
 ## Personal Learning Notes
