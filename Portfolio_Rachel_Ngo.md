@@ -7,8 +7,21 @@
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
 #### *0. [P&G HR Analytics Internship - Using IBM HR Data to Analyze Attrition](#d-hr-project)*
-
+- Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression), reducing dataset dimension and using highly correlated features with attrition like monthly income.
+- Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pinpoint high-risk departments (R&D, Sales).
+- Identified a critical attrition spike in the $1k–$4k income bracket and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
+| Group of Metrics | Metrics Calculated |
+|------------------|-------------------|
+| Workforce Overview | Total Employees, Attrition Count (Yes/No), Active Headcount |
+| Demographic Profile | Attrition by Gender, Attrition by Age Range, Education Level Distribution |
+| Organizational Structure | Attrition by Department, Attrition by Job Role, Job Level |
+| Compensation & Retention Drivers | Monthly Income vs. Attrition, Total Working Years vs. Income, Attrition by Tenure (Years of Working) |
+  
 #### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
+- Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe and compare portfolio performance using geographic benchmark and industry benchmark.
+- Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify concentration risks and new investment opportunities such as Cybersecurity and Asia-based companies.
+- Designed a Snowflake star-schema to reduce data redundancy and improve data quality. Created a single consolidated table to use as input data for Tableau, reducing data retrieval time and making data joining unnecessary when building visualization.
+
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
 | Core Metrics | Number of Holdings, Total Portfolio Valuation, Company Valuation, Funding Allocated, Company Valuation @ Unicorn Record Time |
@@ -18,6 +31,9 @@
 
 
 #### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
+- Analyzed 12K+ online browsing sessions and reshaped data from wide to long format to uncover behavioral differences between converters (who made transactions) and non-converters using Python.
+- Developed a Tableau dashboard to visualize retention rate, traffic and browser effectiveness, and pre–special-day purchasing patterns, enabling Marketing and Product teams to design targeted campaigns and improve conversion routes.
+- Formulated hypotheses on why a session ended up with no transaction, including shorter browsing time and less pages browsed. Suggested activities that can improve conversion rate like daily check-in activities and improving website content.
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -28,6 +44,10 @@
 
 
 #### *3. [Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
+- Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification and product categorization.
+- Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low lead conversion rate issues, leading to recommendations such as reducing average shipping time and optimizing seller onboarding to improve both buyer and seller retention.
+- Identified a negative correlation between delivery time and review scores. Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build or relocate warehouses closer to São Paulo to improve customer experience and operational efficiency.
+
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
 | Retention & Loyalty | Customer Retention Rate, Seller Retention Rate, Customer Retention Cohort Rate, Seller Cohort Retention |
@@ -63,20 +83,20 @@
 ## Projects
 ### (A). Project Using Financial Data for Portfolio Management and Deal Sourcing
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/edit/main/unicorn-companies/unicorn-project-readme.md)
-<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="400">
+<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="500">
 
 
 ### (B). Project Using Online Behavior Data for Targetted Marketing and Website Development
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/online-shopping-readme.md)
-<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="400">
+<img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="500">
 
 ### (C). Project Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/brazillian-ecommerce-readme.md)
-<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4.png" alt="img alt" width="600" height="400">
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4.png" alt="img alt" width="600" height="500">
 
 ### (D). HR project
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/ibm_human_resources/hr-readme.md)
-<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="400">
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="500">
 
 
 
