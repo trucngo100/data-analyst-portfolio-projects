@@ -7,7 +7,7 @@
 # :bulb: BUSINESS INSIGHTS
 [Scroll down for business recommendations](#bulb-recommendations)
 ## Dashboard Peek
-:link: [Go to Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_brazillian_ecommerce/CUSTOMERRETENTION)
+:link: [Go to Tableau Dashboard](https://public.tableau.com/views/MarketplaceEcommerceAnalysis_SellerAcquisitionCustomerRetention/SELLERBUYERNETWORKDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Northstar Metrics: Average Order Value
