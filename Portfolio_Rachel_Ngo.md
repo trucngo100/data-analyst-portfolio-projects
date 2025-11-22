@@ -6,10 +6,12 @@
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
+- ##### [Got to Tableau Public Profile](https://public.tableau.com/app/profile/alicia.ngo.viz/vizzes)
 #### *0. [P&G HR Analytics Internship - Using IBM HR Data to Analyze Attrition](#d-hr-project)*
 - Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression), reducing dataset dimension and using highly correlated features with attrition like monthly income.
 - Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pinpoint high-risk departments (R&D, Sales).
 - Identified a critical attrition spike in the $1k–$4k income bracket and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
+
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
 | Workforce Overview | Total Employees, Attrition Count (Yes/No), Active Headcount |
