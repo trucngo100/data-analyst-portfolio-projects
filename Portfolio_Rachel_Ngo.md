@@ -7,10 +7,10 @@
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
 - ##### [Go to Tableau Public Profile](https://public.tableau.com/app/profile/alicia.ngo.viz/vizzes)
-#### *0. [P&G HR Analytics Internship - Using IBM HR Data to Analyze Attrition](#d-hr-project)*
+#### *0. [P&G HR Analytics Work Demo - Using IBM HR Data to Analyze Attrition Problem](#d-hr-project)*
 - Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression), reducing dataset dimension and using highly correlated features with attrition like monthly income.
-- Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pinpoint high-risk departments (R&D, Sales).
-- Identified a critical attrition spike in the $1k–$4k income bracket and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
+- Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pin down the reason for high attrition is the monthly income. 
+- Identified a high attrition rate in the $1k–$4k income bracket, R&D department, and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -20,8 +20,8 @@
 | Compensation & Retention Drivers | Monthly Income vs. Attrition, Total Working Years vs. Income, Attrition by Tenure (Years of Working) |
   
 #### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
-- Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe and compare portfolio performance using geographic benchmark and industry benchmark.
-- Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify concentration risks and new investment opportunities such as Cybersecurity and Asia-based companies.
+- Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe and benchmark portfolio performance gain the average of region and industry and assess the concentration risks with their investment allocations.
+- Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify new investment opportunities such as Cybersecurity and Asia-based companies.
 - Designed a Snowflake star-schema to reduce data redundancy and improve data quality. Created a single consolidated table to use as input data for Tableau, reducing data retrieval time and making data joining unnecessary when building visualization.
 
 | Group of Metrics | Metrics Calculated |
@@ -34,8 +34,8 @@
 
 #### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
 - Analyzed 12K+ online browsing sessions and reshaped data from wide to long format to uncover behavioral differences between converters (who made transactions) and non-converters using Python.
-- Developed a Tableau dashboard to visualize retention rate, traffic and browser effectiveness, and pre–special-day purchasing patterns, enabling Marketing and Product teams to design targeted campaigns and improve conversion routes.
 - Formulated hypotheses on why a session ended up with no transaction, including shorter browsing time and less pages browsed. Suggested activities that can improve conversion rate like daily check-in activities and improving website content.
+- Developed a Tableau dashboard to visualize retention rate, traffic and browser effectiveness, and pre–special-day purchasing patterns, enabling Marketing and Product teams to design targeted campaigns such as bargain dropping 7 days before holidays.
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -46,18 +46,18 @@
 
 
 #### *3. [Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
-- Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification and product categorization.
-- Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low lead conversion rate issues, leading to recommendations such as reducing average shipping time and optimizing seller onboarding to improve both buyer and seller retention.
-- Identified a negative correlation between delivery time and review scores. Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build or relocate warehouses closer to São Paulo to improve customer experience and operational efficiency.
+- Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification (one-time buyers and return customers) and product categorization (value-driving and cost-driving).
+- Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low seller lead conversion rate issues. Suggested strategy like reducing average shipping time and training SDR staff to improve seller acquisition and customer retention rate.
+- Identified a negative correlation between delivery time and review scores. Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build/relocate warehouses closer to São Paulo to decrease shipping time.
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
-| Retention & Loyalty | Customer Retention Rate, Seller Retention Rate, Customer Retention Cohort Rate, Seller Cohort Retention |
+| Retention & Loyalty | Customer Retention Rate, Seller Retemtion Rate, Seller Acquisition Efficiency, Customer Retention Cohort Rate, Seller Cohort Retention |
 | Business Scale & Growth | Total Customers, Total Sellers, Average # of Items Bought per Order, Average Listings |
 | Financial Performance | Average Order Value (AOV), AOV by Buyer Type, Mode of Customer Payment, Product Segmentation (Price/Volume) |
-| Operational Efficiency | Average Payment Processing Days, Average Order Preparation Days, Average Customer Shipping Days, KPI Target Setting (Delivery), KPI Reached Percentage (Delivery) |
-| Quality & Satisfaction | Review Score, Average Review Given per Order, Seller Behavior Classification |
-| Sales & Conversion Metrics | SDR Performance, SR Performance, Average Conversion Days by Business Type, Average Conversion Days by Business Segment |
+| Operational Efficiency | Average Payment Processing Days, Average Order Preparation Days, Average Customer Shipping Days, KPI Reached Percentage (Delivery) |
+| Quality & Satisfaction | Review Score, Average Review Given, Seller Behavior Classification |
+| Sales & Conversion Metrics | SDR Performance, SR Performance, Average Conversion Days by Business Types, Average Conversion Days by Business Segments |
 | Geographical Distribution | Customer Location, Seller Location, # of Sellers by Channel, Distribution of Total Orders Across Network |
 
 # About Me
@@ -66,7 +66,7 @@
   
 ### Coursework
 - *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming.
-- *Yonsei School of Computer Science*: Intro to Deep Learning, Data Science, AI, Introduction to AI Research, NLP Processing and ChatGPT.
+- *Yonsei School of Computer Science*: Introduction to Deep Learning, Data Science, AI, Introduction to AI Research, NLP Processing and ChatGPT.
 
 ### Certifications
 | Certificate List 1 | Certificate List 2 |
@@ -103,7 +103,8 @@
 
 
 ## Personal Learning Notes
-- I really love learning and I am a huge fan of Notion, Capacities, Miro, draw.io. Over the course of 4 years in Korea, I have levelled up my notetaking system and soft-skill building a lot to accomodate with all the constantly changing tech space.
+- I really love learning and I am a huge fan of Notion, Capacities, Miro, draw.io. Over the course of 4 years in Korea, I have levelled up my notetaking and time-management skills to get ready for a job in tech space.
 - During the process of self-learning, I made lots of mistakes and gained experience through watching Youtube videos and reading blogs on Medium or Reddit. For example, when I learned Tableau, I remember watching this Youtube video where the instructor told me that in order to change the variables without losing the formatting, I have to first drag them into the markcards and then remove the original labels. I remember little tips like this so that I can upgrade my skills and deliver the result faster.
 - Throughout the process, I have a made a personal Data Workflow that I would love to share.
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/data-workflow.jpg" alt="img alt" width="600" height="800">
+- I know that I am not a fit person for your position yet but I really hope to get one foot in the door and contribute my analytical skills. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company.
