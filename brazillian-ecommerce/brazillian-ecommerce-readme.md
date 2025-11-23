@@ -58,7 +58,7 @@
 ## :bulb: Recommendations
 - Improving CX: reducing the number of waiting days to have their products delivered. Building a new warehouse or relocating a current warehouse location to the central areas.
 - Due to the low number customers and the AOV is small, sellers are leaving the platform to pursue their businesses somewhere else. My recommendation is that we should give them some insights that we have collected about their customers and provide strategic recommendations for them, including cross-selling and offering bargains.
-- My recommendations is that Olist should reduce the 9.2 days average shipping time and the 2.8 days average order preparation time to improve the customer review score. For example, they can build warehouse at highly populated areas like Rio De Janeiro.
+- Regarding how to increase customer satisfaction and retain customers, Olist should reduce the 9.2 days average shipping time and the 2.8 days average order preparation time to improve the customer review score. For example, they can build warehouse at highly populated areas like Rio De Janeiro.
 
 
 
