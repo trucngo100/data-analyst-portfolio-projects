@@ -2,8 +2,8 @@
 
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="400">
 
-# Brazillian Olist Ecommerce Project
-### Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
+# IBM HR Attrition Analysis
+### Using HR Data to Pin Down Reason for High Attrition Rate
 - Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
@@ -14,22 +14,14 @@
 :link: [Go to Tableau Dashboard](https://public.tableau.com/views/MarketplaceEcommerceAnalysis_SellerAcquisitionCustomerRetention/SELLERBUYERNETWORKDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-## Northstar Metrics: Monthly Income
+## Northstar Metrics: Attrition Rate (%)
 
 ## Insights from Visualization
 
 1. Primary Driver: Compensation
-- The most critical insight comes from the top-right chart ("Monthly Income is the Reason..."):
-
-- Inverse Relationship: There is a drastic inverse correlation between salary and attrition.
-
-- The Danger Zone: The vast majority of employees leaving (137 people) fall into the lowest income bracket ($1k–$4k).
-
-- The Drop-off: As soon as salary exceeds $7k, attrition drops to near zero. This suggests that once employees cross a specific financial threshold, retention stabilizes significantly.
-
+- There is an inverse correlation between salary and attrition. Salary could possibly explain for the reason of leaving. As soon as salary exceeds $7k, attrition drops to near zero. This suggests that once employees cross a specific financial threshold, they will stay because of the financial stability.
+  
 2. Demographic Profile of Attrition
-- The employees leaving are not just "low earners"; they fit a specific demographic profile often associated with entry-level positions:
-
 - Age: The 21–30 and Under 20 age brackets show a visibly higher proportion of attrition compared to older groups (31+).
 
 - Experience: Employees with 0–4 years of working experience see high turnover.
@@ -37,14 +29,10 @@
 - Education: Turnover is spread relatively evenly across education levels, suggesting that higher education does not necessarily insulate an employee from leaving if the pay is low.
 
 3. Structural/Career Progression Issues
-- The bottom-right charts ("Defining factors for High Income") reveal why the lower-income group might be frustrated:
+- If income is strictly tied to tenure (time served) rather than performance, high-performing young talent in the $1k–$4k bracket may feel they cannot advance their salary fast enough, prompting them to leave for better offers elsewhere.
 
-- Seniority-Based Pay: There is a strong positive correlation between Total Working Years and Monthly Income.
-
-- Interpretation: If income is strictly tied to tenure (time served) rather than performance, high-performing young talent in the $1k–$4k bracket may feel they cannot advance their salary fast enough, prompting them to leave for better offers elsewhere.
-
-4. Departmental Hotspots
-- Job Roles: Sales Executives, Research Scientists, and Laboratory Technicians have the highest volume of attrition.
+4. Department Deep Dive
+- Job Roles: Sales Executives, Research Scientists, and Laboratory Technicians saw the highest number of people leaving.
 
 - Department: The R&D department has the highest volume of turnover, though this is likely because they also have the highest headcount.
 
@@ -74,14 +62,12 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 ## 2. Python - Data Cleaning
 - I have taken reference of this link to conduct dimension reduction: [GeekForGeek](https://www.geeksforgeeks.org/machine-learning/ibm-hr-analytics-on-employee-attrition-performance-using-random-forest-classifier/)
 - First, I used random forest to identify the most significant predictor of attrition, which is 'Monthly Income'. This means that the higher the income, the more motivated an employee is to stay with IBM.
-- Next, I dived deeper into understanding drivers behind high income. A high income is determined by the job level and surprisingly the total working years and salary does not have perfectly linear relationship. This means that regardless of the years that employee contributes to IBM, it is not guaranteed that they will get the pay raise. This suggests for a better policy to retain and reward employees who have stayed with IBM for a long time.
-
+- Next, I dived deeper into understanding drivers behind high income. A high income is determined by the job level and surprisingly the total working years and salary does not have perfectly linear relationship. This means that regardless of the years that employee contributes to IBM, it is not guaranteed that they will get the pay raise. This suggests for a better policy to retain and reward employees who have stayed with IBM for a tenure of more than 5 years.
 ![img alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-income_regardless.png)
 ## Technical Challenges
 - There are more than 20 categorical variables in this dataset and to pin down the variables that are highly correlated with the attrition was the main challenge.
-- First, I conducted dimension reduction by applying random forest. From there
-
-- Personal thought: the most exciting part while doing this project is that I got to learn so much about using AI to write difficult Machine Learning code. Still, interpreting and coming up with the right questions to ask was the essence of the great output. The AI-generated code was not correct, so I have to go back and forth to check the logic and make any tailored adjustments.
-- There were some variables that I have not touched on yet, and they are the variables that reflect employee's satisfaction about their job.
+- First, I conducted dimension reduction by applying random forest. From there, I applied linear regression algorithms to find factors that are highly correlated with the income.
+- Personal thought: the most exciting part while doing this project is that I got to learn so much about using AI to write difficult Machine Learning code. Still, interpreting and coming up with the right questions to ask was the essence of the great output. With background knowledge in machine learning, I refine the AI-generated code which contains irrelevant code snippets or just redundant lines of code.
+- Limitation: There were some variables that I have not touched on yet, and they are the variables that reflect employee's satisfaction about their job.
 
 
