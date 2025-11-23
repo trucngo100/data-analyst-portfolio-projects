@@ -20,7 +20,7 @@
 | Compensation & Retention Drivers | Monthly Income vs. Attrition, Total Working Years vs. Income, Attrition by Tenure (Years of Working) |
   
 #### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
-- Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe and benchmark portfolio performance gain the average of region and industry and assess the concentration risks with their investment allocations.
+- Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe, evaluate concentration risks and benchmark portfolio performance against the region's average and industry's average. 
 - Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify new investment opportunities such as Cybersecurity and Asia-based companies.
 - Designed a Snowflake star-schema to reduce data redundancy and improve data quality. Created a single consolidated table to use as input data for Tableau, reducing data retrieval time and making data joining unnecessary when building visualization.
 
@@ -46,9 +46,9 @@
 
 
 #### *3. [Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
-- Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification (one-time buyers and return customers) and product categorization (value-driving and cost-driving).
-- Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low seller lead conversion rate issues. Suggested strategy like reducing average shipping time and training SDR staff to improve seller acquisition and customer retention rate.
-- Identified a negative correlation between delivery time and review scores. Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build/relocate warehouses closer to São Paulo to decrease shipping time.
+- Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification (one-time buyers and return customers) and product categorization (value-driving and cost-driving). 
+- Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low seller lead conversion rate issues. To improve buyer retention, uncovered a negative correlation between delivery time and review scores, leading to the suggestion of reducing average shipping time. To increase seller acquisition, suggested positioning SDR that tailor to seller's lead profile.
+- Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build/relocate warehouses closer to São Paulo to decrease shipping time.
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -105,6 +105,6 @@
 ## Personal Learning Notes
 - I really love learning and I am a huge fan of Notion, Capacities, Miro, draw.io. Over the course of 4 years in Korea, I have levelled up my notetaking and time-management skills to get ready for a job in tech space.
 - During the process of self-learning, I made lots of mistakes and gained experience through watching Youtube videos and reading blogs on Medium or Reddit. For example, when I learned Tableau, I remember watching this Youtube video where the instructor told me that in order to change the variables without losing the formatting, I have to first drag them into the markcards and then remove the original labels. I remember little tips like this so that I can upgrade my skills and deliver the result faster.
-- Throughout the process, I have a made a personal Data Workflow that I would love to share.
+- Throughout the process, I have a made a personal Data Workflow that I would love to share here.
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/data-workflow.jpg" alt="img alt" width="600" height="800">
-- I know that I am not a fit person for your position yet but I really hope to get one foot in the door and contribute my analytical skills. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company.
+- I know that I am not a fit person for your position yet but I really hope to get one foot in the door and contribute my unique skillsets and experience. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company and solve marketing, operational and product-related problems!
