@@ -61,8 +61,11 @@
 | Geographical Distribution | Customer Location, Seller Location, # of Sellers by Channel, Distribution of Total Orders Across Network |
 
 # About Me
-- A hard-working person with experience working in an international environment and driving business growth through **data**. Having an unhealthy obsession with learning. Built projects that can solve marketing and operational problems. Exposed to metrics collected in various industries (airline, hotel industry, buyback service, ecommerce, fintech, automobiles).
+- A proactive, detail-oriented, and hard-working person with experience working in an international environment and driving business growth through **data**. 
+- Through my portfolio, you can get the impression that I love visualizing and interpreting product, operational and marketing metrics. Throughout my student life, I have delivered over 15+ presentations about airline, hotel industry, buyback service, ecommerce, fintech, automobiles and 4 years of creating captivating presentation materials. Besides that, I am also a creative person who has come up with different strategies to approach potential sponsors or online marketing events.
 - Looking for opportunities to grow and make impact with my data analytical and communication skills.
+- I might not have acquired all the skills required yet but I am really willing to learn. I really hope to get one foot in the door and contribute my unique skillsets and experience. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company and solve marketing, operational and product-related problems!
+
   
 ### Coursework
 - *Yonsei Business School of Management*: Production and Operations Management, ERP, Management Information System, Management Science, Management Accounting, Machine Learning for Business Analytics, Marketing Analytics, Applied Statistics, Business Programming.
@@ -107,4 +110,3 @@
 - During the process of self-learning, I made lots of mistakes and gained experience through watching Youtube videos and reading blogs on Medium or Reddit. For example, when I learned Tableau, I remember watching this Youtube video where the instructor told me that in order to change the variables without losing the formatting, I have to first drag them into the markcards and then remove the original labels. I remember little tips like this so that I can upgrade my skills and deliver the result faster.
 - Throughout the process, I have a made a personal Data Workflow that I would love to share here.
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/data-workflow.jpg" alt="img alt" width="600" height="800">
-- I know that I am not a fit person for your position yet but I really hope to get one foot in the door and contribute my unique skillsets and experience. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company and solve marketing, operational and product-related problems!
