@@ -33,7 +33,7 @@
 
 ##### INSIGHTS FOR CUSTOMER RETENTION
 *Context*
-- As this is an ecommerce platform, their customers include two main buckets: one is the sellers and the other one is the buyers. From the main dashboard, there are two main trends. First is that the acquistion of customer grew strongly throughout the examined period. Sellers growth is comparatively slower and plateaud around 380 new sellers in the latter half.
+- As this is an ecommerce platform, their customers include two main buckets: one is the sellers and the other one is the buyers. From the main dashboard, there are two main trends. First is that the acquistion of customer grew strongly throughout the examined period. Sellers growth was comparatively slower and plateaud around 380 new sellers in the latter half.
 - The typical amount that customer pay is around R$158 and average listings of each seller on the platform is 38 items, which is quite a large product portfolio for small-and-medium sized businesses.
 - What is most noticeable is the extremely slow customer retention rate and seller retention rate. **We will now move on exploring what could potentially cause the slow retention rate.**
 - Before going into the strategy to improve our customer retention, I first explored the motivations behind increasing the number of return and repeat customers. The reason is that repeat customers spend 35% higher and 10% higher than one-time buyers. 
