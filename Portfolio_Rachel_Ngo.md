@@ -3,10 +3,10 @@
 ##### Based in HCMC, Vietnam / Seoul, S.Korea
 ##### Class of 26' BBA at Yonsei University, Minor in Artificial Intelligence
 - ##### [Go to Linkedin Profile](https://www.linkedin.com/in/trucngo147/)
+- ##### [Go to Tableau Public Profile](https://public.tableau.com/app/profile/alicia.ngo.viz/vizzes)
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
-- ##### [Go to Tableau Public Profile](https://public.tableau.com/app/profile/alicia.ngo.viz/vizzes)
 #### *0. [P&G HR Analytics Work Demo - Using IBM HR Data to Analyze Attrition Problem](#d-hr-project)*
 - Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression) to reduce dataset dimension and identify highly correlated factors with attrition like monthly income.
 - Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pin down the reason for high attrition is the monthly income. 
@@ -88,19 +88,23 @@
 ## Projects
 ### (A). Project Using Financial Data for Portfolio Management and Deal Sourcing
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/edit/main/unicorn-companies/unicorn-project-readme.md)
+#### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/FINISHEDDASHBOARD/DEALSOURCINGDB)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="500">
 
 
 ### (B). Project Using Online Behavior Data for Targetted Marketing and Website Development
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/online-shopping-readme.md)
+#### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/OnlineShoppingUserBehaviorAnalysis/PERFORMANCEOVERVIEW)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="500">
 
 ### (C). Project Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/brazillian-ecommerce/brazillian-ecommerce-readme.md)
+#### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/MarketplaceEcommerceAnalysis_SellerAcquisitionCustomerRetention/BUYER1)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4.png" alt="img alt" width="600" height="500">
 
 ### (D). HR project
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/ibm_human_resources/hr-readme.md)
+#### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_hr/FINALDB)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="500">
 
 
