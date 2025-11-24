@@ -7,7 +7,7 @@
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
-#### *0. [P&G HR Analytics Work Demo - Using IBM HR Data to Analyze Attrition Problem](#d-hr-project)*
+#### *0. [P&G HR Analytics Work Demo - Using IBM HR Data to Analyze Attrition Problem](#d-using-ibm-hr-data-to-analyze-attrition-problem)*
 - Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression) to reduce dataset dimension and identify highly correlated factors with attrition like monthly income.
 - Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pin down the reason for high attrition is the monthly income. 
 - Identified a high attrition rate in the $1k–$4k income bracket, R&D department, and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
@@ -102,7 +102,7 @@
 #### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/MarketplaceEcommerceAnalysis_SellerAcquisitionCustomerRetention/BUYER1)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4.png" alt="img alt" width="600" height="500">
 
-### (D). HR project
+### (D). Using IBM HR Data to Analyze Attrition Problem
 #### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/ibm_human_resources/hr-readme.md)
 #### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_hr/FINALDB)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="500">
