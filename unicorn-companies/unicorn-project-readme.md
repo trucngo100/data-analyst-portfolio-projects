@@ -32,7 +32,7 @@
 - This heavy concentration in Fintech poses certain risks to the portfolio. A downturn in this specific sector will severely impact overall performance. Conversely, it also represents a strong bullish bet.
 
 ##### Industry YoY Growth from 2022 to 2024 (Slope Chart)
-- This chart gives explanation for whhy the total portfolio valuation dropped in 2023. Nearly every single key industry in the portfolio (Fintech, Internet Software, E-commerce, Supply Chain) experienced a sharp decline in value from 2022 to 2023.
+- This chart gives explanation for why the total portfolio valuation dropped in 2023. Nearly every single key industry in the portfolio (Fintech, Internet Software, E-commerce, Supply Chain) experienced a sharp decline in value from 2022 to 2023.
 - These 4 industry's trends also seem to move in tandem and it reflects the interconnectivity and interdependency among these industries.
 
 ##### Funding Allocations to different Continents (Bubble Chart and Map)
