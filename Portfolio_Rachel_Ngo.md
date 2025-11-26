@@ -19,7 +19,7 @@
 | Organizational Structure | Attrition by Department, Attrition by Job Role, Job Level |
 | Compensation & Retention Drivers | Monthly Income vs. Attrition, Total Working Years vs. Income, Attrition by Tenure (Years of Working) |
   
-#### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
+#### *1. [Investment Domain - Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
 - Cleaned and merged 3K+ records using Python and Snowflake, enabling investors to evaluate their portfolio’s value changes within the 2022-2024 timeframe, evaluate concentration risks and benchmark portfolio performance against the region's average and industry's average. 
 - Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify new investment opportunities such as Cybersecurity and Asia-based companies.
 - Designed a Snowflake star-schema to reduce data redundancy and improve data quality. Created a single consolidated table to use as input data for Tableau, reducing data retrieval time and making data joining unnecessary when building visualization.
@@ -32,7 +32,7 @@
 | Trend Analysis | % Valuation Change from 2022 to 2023, % Valuation Change from 2023 to 2024 |
 
 
-#### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
+#### *2. [Advertising/Ecommerce Domain - Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
 - Analyzed 12K+ online browsing sessions and reshaped data from wide to long format to uncover behavioral differences between converters (who made transactions) and non-converters using Python.
 - Formulated hypotheses on why a session ended up with no transaction, including shorter browsing time and less pages browsed. Suggested activities that can improve conversion rate like daily check-in activities and improving website content.
 - Developed a Tableau dashboard to visualize retention rate, traffic and browser effectiveness, and pre–special-day purchasing patterns, enabling Marketing and Product teams to design targeted campaigns such as bargain dropping 7 days before holidays.
@@ -45,7 +45,7 @@
 | Behavioral & Temporal Patterns | Time Browsing (Duration), Seasonality Trend (Payment/Value), Weekends and Weekdays Behavior Difference (Payment/Value), Correlation between Spending and Proximity to Special Days |
 
 
-#### *3. [Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
+#### *3. [Ecommerce Domain - Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition](#c-project-using-ecommerce-data-for-analyzing-buyer-retention-and-seller-acquisition)*
 - Analyzed 100K+ ecommerce orders from multi-source Olist datasets using SQL and Snowflake to clean, merge, and engineer new features such as customer classification (one-time buyers and return customers) and product categorization (value-driving and cost-driving). 
 - Utilized Tableau to build heatmaps and cohort analysis matrices, identifying low buyer retention and low seller lead conversion rate issues. To improve buyer retention, uncovered a negative correlation between delivery time and review scores, leading to the suggestion of reducing average shipping time. To increase seller acquisition, suggested positioning SDR that tailor to seller's lead profile.
 - Developed simulation models to estimate order volume based on different delivery day configurations. Visualized geographic patterns of orders and AOV to uncover fulfillment inefficiencies, resulting in recommendations to build/relocate warehouses closer to São Paulo to decrease shipping time.
