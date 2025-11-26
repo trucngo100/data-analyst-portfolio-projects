@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 # [Truc (Rachel) Ngo](https://www.linkedin.com/in/trucngo147/)
 ##### Based in HCMC, Vietnam / Seoul, S.Korea
-##### Class of 26' BBA at Yonsei University, Minor in Artificial Intelligence
+##### Graduate in Business Administration (BBA) at Yonsei University, Minor in Artificial Intelligence
 - ##### [Go to Linkedin Profile](https://www.linkedin.com/in/trucngo147/)
 - ##### [Go to Tableau Public Profile](https://public.tableau.com/app/profile/alicia.ngo.viz/vizzes)
 - ##### [Go to About Me](#about-me)
