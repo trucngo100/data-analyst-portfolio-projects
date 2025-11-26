@@ -9,10 +9,10 @@
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
 #### *0. [P&G HR Analytics Work Demo - Using IBM HR Data to Analyze Attrition Problem](#d-using-ibm-hr-data-to-analyze-attrition-problem)*
 - Analyzed 1.4K+ employee records with 35 variables to understand drivers behind IBM’s employee attrition. Utilized AI to conduct hypothesis testing and ML tasks in Python (random forest, t-test, and linear regression) to reduce dataset dimension and identify highly correlated factors with attrition like monthly income.
-- Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pin down the reason for high attrition is the monthly income. 
+- Developed an interactive HR Analytics dashboard to visualize attrition across job roles, age groups, and tenure, enabling the Human Resources team to pin down the reason for high attrition which is the monthly income. 
 - Identified a high attrition rate in the $1k–$4k income bracket, R&D department, and the 21-to-30 age group. Recommended restructuring entry-level compensation and performance-based progression to improve retention among junior talent.
 
-| Group of Metrics | Metrics Calculated |
+| Group of Metrics | Metrics Created |
 |------------------|-------------------|
 | Workforce Overview | Total Employees, Attrition Count (Yes/No), Active Headcount |
 | Demographic Profile | Attrition by Gender, Attrition by Age Range, Education Level Distribution |
@@ -24,7 +24,7 @@
 - Built an interactive Tableau dashboard to visualize YoY trends, evaluate current allocations, and compare in-portfolio companies against out-of-portfolio companies’ performance. This enables stakeholders to identify new investment opportunities such as Cybersecurity and Asia-based companies.
 - Designed a Snowflake star-schema to reduce data redundancy and improve data quality. Created a single consolidated table to use as input data for Tableau, reducing data retrieval time and making data joining unnecessary when building visualization.
 
-| Group of Metrics | Metrics Calculated |
+| Group of Metrics | Metrics Created |
 |------------------|-------------------|
 | Core Metrics | Number of Holdings, Total Portfolio Valuation, Company Valuation, Funding Allocated, Company Valuation @ Unicorn Record Time |
 | Benchmark Comparisons | Continent Average Valuation, Industry Average Valuation, Emerging and Established Markets |
@@ -37,7 +37,7 @@
 - Formulated hypotheses on why a session ended up with no transaction, including shorter browsing time and less pages browsed. Suggested activities that can improve conversion rate like daily check-in activities and improving website content.
 - Developed a Tableau dashboard to visualize retention rate, traffic and browser effectiveness, and pre–special-day purchasing patterns, enabling Marketing and Product teams to design targeted campaigns such as bargain dropping 7 days before holidays.
 
-| Group of Metrics | Metrics Calculated |
+| Group of Metrics | Metrics Created |
 |------------------|-------------------|
 | Traffic & Engagement Metrics | Total Sessions, Average Session Duration, Number of Pages Visited per Session, Bounce Rate, Exit Rate |
 | User Segmentation | Visitor Segments (% New, % Returning), Converter Segments (% Converter, % Non-converter), User Quadrants (Engagement, Value) |
@@ -64,7 +64,7 @@
 - A proactive, detail-oriented, and hard-working person with experience working in an international environment and driving business growth through **data**. 
 - Through my portfolio, you can get the impression that I love visualizing and interpreting product, operational and marketing metrics. Throughout my student life, I have delivered over 15+ presentations about airline, hotel industry, buyback service, ecommerce, fintech, automobiles and 4 years of creating captivating presentation materials. Besides that, I am also a creative person who has come up with different strategies to approach potential sponsors or online marketing events.
 - Looking for opportunities to grow and make impact with my data analytical and communication skills.
-- I might not have acquired all the skills required yet but I am really willing to learn. I really hope to get one foot in the door and contribute my unique skillsets and experience. I look forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company and solve marketing, operational and product-related problems!
+- I might not have acquired all the skills required yet but I am really willing to learn. Really hope to get one foot in the door and contribute my unique skillsets and experience. Looking forward to collaborating with my colleagues to extract insights from the vast ocean of data available at your company and solve marketing, operational and product-related problems!
 
   
 ### Coursework
@@ -74,14 +74,15 @@
 ### Certifications
 | Certificate List 1 | Certificate List 2 |
 |--------------------|--------------------|
-| [Google Business Intelligence Specialization](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Google_Business_Intelligence_Specialization.pdf) | [Macquarie Intermediate Excel Skills](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/macquarie_excel_intermediate.pdf) |
+| [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/6X1FI6H9BK8I) | [Macquarie Intermediate Excel Skills](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/macquarie_excel_intermediate.pdf) |
 | [Database Design and Operational Business Intelligence](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Database_Design_and_Operational_BI.pdf) | [Hackerrank SQL Intermediate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Hackerrank_SQL_Intermediate.pdf) |
 | [Datacamp Data Analyst Associate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Datacamp_Data_Analyst.pdf) | [Datacamp Data Engineer Associate](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Datacamp_Data_Engineer_Associate.pdf) |
 | [Essential Linear Algebra for Data Science](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/coursera_essential_linear_algebra_for_data_science.pdf) | [Duke Business Metrics for Data Driven Companies](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/duke_business_metrics_for_data_driven_companies.pdf) |
-| [Deloitte Australia - Data Analytics Job Simulation](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Data_Analytics_Job_Simulation.pdf) | [UCI Initiating and Planning Projects](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Initiating_and_Planning_Projects.pdf) |
+| [Deloitte Australia - Data Analytics Job Simulation](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Data_Analytics_Job_Simulation.pdf) | [Google Business Intelligence Specialization](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/certificates/Google_Business_Intelligence_Specialization.pdf)|
 
 ### Technical Experience
 - Tech stack: Python, SQL, Tableau
+- Diagram/Brainstorming/Collaboration Tools: Visily, draw.io, Figma, Canva, Microsoft Office
 ### Languages
 - Languages: Vietnamese (Native); English (Fluent); Korean (Passive Fluent, TOPIK 5), Chinese (In Progress) (My ethnicity is Chinese actually!)
   
@@ -110,7 +111,7 @@
 
 
 ## Personal Learning Notes
-- I really love learning and I am a huge fan of Notion, Capacities, Miro, draw.io. Over the course of 4 years in Korea, I have levelled up my notetaking and time-management skills to get ready for a job in tech space.
+- I really love learning and I am a huge fan of Notion, Capacities. Over the course of 4 years in Korea, I have levelled up my notetaking and time-management skills to get ready for a job in tech space.
 - During the process of self-learning, I made lots of mistakes and gained experience through watching Youtube videos and reading blogs on Medium or Reddit. For example, when I learned Tableau, I remember watching this Youtube video where the instructor told me that in order to change the variables without losing the formatting, I have to first drag them into the markcards and then remove the original labels. I remember little tips like this so that I can upgrade my skills and deliver the result faster.
 - Throughout the process, I have a made a personal Data Workflow that I would love to share here.
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/data-workflow.jpg" alt="img alt" width="600" height="800">
