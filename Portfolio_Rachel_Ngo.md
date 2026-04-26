@@ -108,7 +108,9 @@
 #### [Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_hr/FINALDB)
 <img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-dashboard.png" alt="img alt" width="600" height="500">
 
-
+### (E). Machine Learning Project
+#### [Github Repository](https://github.com/trucngo100/seoul_bike)
+<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/bike_screenshot.png" alt="img alt" width="600" height="500">
 
 ## Personal Learning Notes
 - I really love learning and I am a huge fan of Notion, Capacities. Over the course of 4 years in Korea, I have levelled up my notetaking and time-management skills to get ready for a job in tech space.
